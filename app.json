@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "VKURoomBooking",
-    "slug": "VKURoomBooking",
+    "name": "VKU Room Booking",
+    "slug": "vku-room-booking",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
